@@ -14,5 +14,8 @@ import hashlib
 Navigate to the folder the code is saved and run the streamlit in terminal "streamlit run pychain.py". 
 enter the sender, receiver and amount fields and click the add block to  shows the unique hash everytime user enter these fields and validate chain 
 
+![Capture](https://github.com/mbhat83/Module18_Assignment/blob/main/Capture.PNG)
+
+
 # Contributor
 Madhuri
