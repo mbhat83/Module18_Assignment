@@ -3,12 +3,12 @@ The fintech engineer who’s working at one of the five largest banks in the wor
 
  # Technology & Libraries Used 
  ***Python***
-import streamlit as st
-from dataclasses import dataclass
-from typing import Any, List
-import datetime as datetime
-import pandas as pd
-import hashlib
+- import streamlit as st
+- from dataclasses import dataclass
+- from typing import Any, List
+- import datetime as datetime
+- import pandas as pd
+- import hashlib
 
 # Usage 
 Navigate to the folder the code is saved and run the streamlit in terminal "streamlit run pychain.py". 
